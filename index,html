@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fullstack Capstone Project</title>
+</head>
+<body>
+  <h1>Fullstack Capstone Project</h1>
+  <p>A simple web app demonstrating my final project.</p>
+  <button>Get Started</button>
+</body>
+</html>
