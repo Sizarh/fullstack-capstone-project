@@ -1,0 +1,8 @@
+
+C:\Users\ZamaS\fullstack-capstone-project> npm start
+
+> fullstack-capstone-project@1.0.0 start
+> node app.js
+
+inserted_items: 16 documents successfully inserted
+Server running on port 3000
